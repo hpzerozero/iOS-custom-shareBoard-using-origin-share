@@ -3,14 +3,14 @@
 
 什么都不多说，先看效果图
 <i class="icon ion-ios-eye"/>  
-![1234.gif](http://upload-images.jianshu.io/upload_images/2030645-62ab890fed41057b.gif?imageMogr2/auto-orient/strip)   
+![1234.gif](https://github.com/hpzerozero/iOS-custom-shareBoard-using-origin-share/blob/master/1234.gif)   
 
 此处与iOS原生分享不同的地方是，这个弹出的分享面板是可以自定义的，想要什么样子什么样子，而且还可以指定分享的平台，如果需要别的平台可以留言给我；
 
 以下是原生的分享面板，调起的原生分享
 
-![IMG_4186.PNG](http://upload-images.jianshu.io/upload_images/2030645-f339812f4e90c79d.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![IMG_4187.PNG](http://upload-images.jianshu.io/upload_images/2030645-8a0531cdd4418fa3.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![IMG_4186.PNG](https://github.com/hpzerozero/iOS-custom-shareBoard-using-origin-share/blob/master/IMG_4186.PNG)
+![IMG_4187.PNG](https://github.com/hpzerozero/iOS-custom-shareBoard-using-origin-share/blob/master/IMG_4187.PNG)
 
 以下是实现的基本思路：
 自定义一个`viewController`,然后使用`collectionView`进行平台的布局  
